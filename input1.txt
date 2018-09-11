@@ -1,0 +1,11 @@
+add {abc:7qq,def:d01,ghi:gie,uvw:fqt,xyz:lb9}
+add {abc:s50,def:lq4,ghi:5h6,uvw:ri5,xyz:9am}
+add {abc:hp5,def:22d,ghi:pda,uvw:gat,xyz:rq9}
+add {abc:qt8,def:nes,ghi:7no,uvw:pcm,xyz:3ff}
+add {abc:jg0,def:64n,ghi:o11,uvw:smj,xyz:jcd}
+add {abc:qqe,def:qa5,ghi:loh,uvw:p1j,xyz:s3p}
+add {abc:ol2,def:g04,ghi:78o,uvw:7te,xyz:991}
+add {abc:gj5,def:fdc,ghi:tn6,uvw:ds7,xyz:cq9}
+add {abc:h43,def:s0r,ghi:d5l,uvw:pl5,xyz:hoj}
+add {abc:tjs,def:3nb,ghi:s1m,uvw:gfh,xyz:6kt}
+get {abc:jg0,def:64n,ghi:o11,uvw:smj,xyz:jcd}
